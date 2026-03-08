@@ -1,1 +1,1 @@
-![Descripción del GIF](img/mi-animacion.gif)
+![Descripción del GIF](hoohoo.gif)
